@@ -2,8 +2,9 @@
 Requirements
 
 - Python v3.11.8
-- Keras version: 3.5.0
-- TensorFlow version: 2.17.1
+- Ubuntu 22.04.4 LTS
+- TensorFlow version: 2.16.1
+- Keras: Integrated with TensorFlow (use `tensorflow.keras`)
 
 ## Usage
  - Download all codes (*\*.py*) and put them in the same folder (let's name it "stdn") (*stdn/\*.py*)
