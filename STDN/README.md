@@ -31,7 +31,7 @@ Requirements
    - After running the commands, check the output results (e.g., RMSE, MAE, MAPE, and CRPS).
    - The trained models will be saved in the `hdf5s` folder for further use.
 
-5. **Evaluate Performance**:
+5. **Evaluate Performance for our project**:
    - After training the model, follow these steps to evaluate its performance:
      - For the NYC taxi dataset:
        - Save the trained model in the `hdf5s_taxi` folder.
