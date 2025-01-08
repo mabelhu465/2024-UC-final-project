@@ -19,4 +19,7 @@ Requirements
   ```
   python main.py --dataset=bike
   ```
-  - Check the output results (RMSE and MAPE). Models are saved to "hdf5s" folder for further use.
+  - Check the output results (RMSE, MAE, MAPE and CRPS). Models are saved to "hdf5s" folder for further use.
+  - After training the model, to get the performance results in our project, run with "first_seq_taxi.py" for NYC taxi dataset, or " "first_seq_bike.py" for NYC bike dataset
+## Hyperparameters:
+Please check the hyperparameters defined in main.py
