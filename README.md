@@ -59,13 +59,13 @@ Requirements
    - After training the model, follow these steps to evaluate its performance:
      - For the NYC taxi dataset:
        - Save the trained model in the `hdf5s_taxi` folder.
-       - Create `taxi_result` folder Run the script:
+       - Create `taxi_result` folder and run the script:
          ```bash
          python first_seq_taxi.py
          ```
      - For the NYC bike dataset:
        - Save the trained model in the `hdf5s_bike` folder.
-       - Create `bike_result` folder and Run the script 
+       - Create `bike_result` folder and run the script 
          ```bash
          python first_seq_bike.py
          ```
